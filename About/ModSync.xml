@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>e43fde15-c0cf-4655-9885-ac61b7b7b97d</ID>
+  <ModName>Less Rebuff</ModName>
+  <Version>0.19.1.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>DingoDjango</Owner>
+    <Project>Less-Rebuff</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
