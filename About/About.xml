@@ -3,7 +3,7 @@
 	<name>Less Rebuff</name>
 	<author>KapTaiN_KaVerN, Dingo</author>
 	<url>https://ludeon.com/forums/index.php?topic=26077.0</url>
-	<targetVersion>0.19.0</targetVersion>
+	<targetVersion>1.0.2059</targetVersion>
 	<description>Reduces the stack limit of the following mood penalties relating to romance to x1:
 - Failed to romance someone.
 - Someone failed to romance me.
