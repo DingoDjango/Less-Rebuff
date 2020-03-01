@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ModMetaData>
 	<name>Less Rebuff</name>
 	<author>KapTaiN_KaVerN, Dingo</author>
-	<url>https://ludeon.com/forums/index.php?topic=26077.0</url>
-	<targetVersion>1.0.2059</targetVersion>
+	<packageId>Dingo.LessRebuff</packageId>
 	<description>Reduces the stack limit of the following mood penalties relating to romance to x1:
 - Failed to romance someone.
 - Someone failed to romance me.
@@ -11,4 +10,9 @@
 - Someone cheated on me.
 - Someone divorced me.
 - Someone rejected my marriage proposal.</description>
+
+	<url>https://ludeon.com/forums/index.php?topic=26077.0</url>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>	
 </ModMetaData>
