@@ -13,6 +13,8 @@
 
 	<url>https://ludeon.com/forums/index.php?topic=26077.0</url>
 	<supportedVersions>
-		<li>1.1</li>
+        <li>1.0</li>
+        <li>1.1</li>
+        <li>1.2</li>
 	</supportedVersions>	
 </ModMetaData>
