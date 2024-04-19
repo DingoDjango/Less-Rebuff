@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 	<identifier>LessRebuff</identifier>
-	<version>1.4.8329.1</version>
-	<manifestUri>https://raw.githubusercontent.com/DingoDjango/Less-Rebuff/master/About/Manifest.xml</manifestUri>
+	<version>1.5.8874.1</version>
+	<manifestUri>https://raw.githubusercontent.com/DingoDjango/Less-Rebuff/master/Less%20Rebuff/About/Manifest.xml</manifestUri>
 	<downloadUri>https://github.com/DingoDjango/Less-Rebuff/releases/latest</downloadUri>
 </Manifest>
